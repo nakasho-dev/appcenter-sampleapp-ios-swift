@@ -520,8 +520,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.ukky.nakasho.dev.appcenter.sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "5dcfb885-987f-42c0-9019-906d269f16b2";
-				PROVISIONING_PROFILE_SPECIFIER = appcenter.distribution.20180111;
+				PROVISIONING_PROFILE = "c7143691-e177-42bd-a51c-b82a647f9256";
+				PROVISIONING_PROFILE_SPECIFIER = AppCenterSample.Adhoc.20180114;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
