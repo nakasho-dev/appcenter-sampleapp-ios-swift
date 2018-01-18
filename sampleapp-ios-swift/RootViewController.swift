@@ -19,7 +19,7 @@ class RootViewController: UIPageViewController, UIPageViewControllerDelegate, UI
             "analyticsViewController",
             "pushViewController",
         ]
-
+        
         delegate = self
         dataSource = self
 
