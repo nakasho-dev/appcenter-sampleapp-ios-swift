@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-carthage update --platform iOS
+#carthage update --platform iOS
